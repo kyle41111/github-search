@@ -20,6 +20,7 @@ filename:id_dsa
 filename:id_rsa
 extension:env
 extension:exs
+extension:json
 extension:sls
 extension:cfg
 extension:ini
@@ -69,6 +70,7 @@ internal
 dotfiles
 dot-files
 mydotfiles
+GOOGLE_APPLICATION_CREDENTIALS
 config
 dbpasswd
 db_password
@@ -162,6 +164,9 @@ firebase
 gitlab
 stripe
 herokuapp
+mlflow
+devops
+vertexai
 cloudfront
 amazonaws
 npmrc _auth
@@ -169,3 +174,4 @@ pem private
 aws_access_key_id
 bashrc password
 xoxp OR xoxb OR xoxa
+OPENAI_API_KEY
