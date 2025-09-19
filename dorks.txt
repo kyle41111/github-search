@@ -32,6 +32,7 @@ extension:pem
 extension:ppk
 extension:sql
 
+filename:access_tokens.db
 filename:bash_history
 filename:bash_profile
 filename:bashrc
