@@ -32,6 +32,7 @@ extension:zsh
 extension:pem
 extension:ppk
 extension:sql
+extension:keytab
 
 filename:access_tokens.db
 filename:bash_history
