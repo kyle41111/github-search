@@ -177,3 +177,4 @@ aws_access_key_id
 bashrc password
 xoxp OR xoxb OR xoxa
 OPENAI_API_KEY
+sagemaker
